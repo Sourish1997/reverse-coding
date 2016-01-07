@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=is
+comment0.target=InputStreamLineBuffer(java.io.InputStream)
+comment1.params=
+comment1.target=void\ run()
+comment2.params=
+comment2.target=boolean\ isAlive()
+comment3.params=
+comment3.target=void\ start()
+comment4.params=
+comment4.target=boolean\ hasNext()
+comment5.params=
+comment5.target=java.lang.String\ getNext()
+comment6.params=
+comment6.target=long\ timeElapsed()
+numComments=7
