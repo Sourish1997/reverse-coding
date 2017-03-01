@@ -18,7 +18,7 @@
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="inheritedJdk" />
-    <orderEntry type="module-library">
+    <orderEntry type="module-library" exported="">
       <library name="retrofit-2.0.0-beta4.jar">
         <CLASSES>
           <root url="jar://$MODULE_DIR$/jars/retrofit-2.0.0-beta4.jar!/" />
@@ -27,7 +27,7 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library">
+    <orderEntry type="module-library" exported="">
       <library name="converter-gson-2.0.0-beta4.jar">
         <CLASSES>
           <root url="jar://$MODULE_DIR$/jars/converter-gson-2.0.0-beta4.jar!/" />
@@ -36,7 +36,7 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library">
+    <orderEntry type="module-library" exported="">
       <library name="okhttp-3.2.0.jar">
         <CLASSES>
           <root url="jar://$MODULE_DIR$/jars/okhttp-3.2.0.jar!/" />
@@ -45,7 +45,7 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library">
+    <orderEntry type="module-library" exported="">
       <library name="okio-1.6.0.jar">
         <CLASSES>
           <root url="jar://$MODULE_DIR$/jars/okio-1.6.0.jar!/" />
@@ -54,7 +54,7 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library">
+    <orderEntry type="module-library" exported="">
       <library name="gson-2.6.2.jar">
         <CLASSES>
           <root url="jar://$MODULE_DIR$/jars/gson-2.6.2.jar!/" />
